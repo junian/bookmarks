@@ -1,3 +1,9 @@
+This page is dedicated to curate a lot of stuff I found when searching for solution of my programming problems.
+The list is valuable to me personally.
+If you find the list valuable to you, feel free to reuse.
+
+The page is licensed under Public Domain.
+
 [select - SQL join: selecting the last records in a one-to-many relationship - Stack Overflow](https://stackoverflow.com/a/2111420)
 
 [c# - Default button property in winform app - Stack Overflow](https://stackoverflow.com/a/4280232)
