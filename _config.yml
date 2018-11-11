@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Bookmarks
+description: My personal bookmarks, but publicly available
+show_downloads: false
+google_analytics: UA-90418854-6
