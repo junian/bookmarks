@@ -1,7 +1,3 @@
-# bookmarks
-
-This is my personal bookmark, but publicly available.
-
 [select - SQL join: selecting the last records in a one-to-many relationship - Stack Overflow](https://stackoverflow.com/a/2111420)
 
 [c# - Default button property in winform app - Stack Overflow](https://stackoverflow.com/a/4280232)
@@ -19,3 +15,5 @@ This is my personal bookmark, but publicly available.
 [How to force C# .net app to run only one instance in Windows? - Stack Overflow](https://stackoverflow.com/a/184143)
 
 [c# - SetForegroundWindow doesn&#39;t work with minimized process - Stack Overflow](https://stackoverflow.com/a/27449582)
+
+[c# - How can I programmatically limit my program&#39;s CPU usage to below 70%? - Stack Overflow](https://stackoverflow.com/a/27162528)
