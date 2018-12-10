@@ -23,3 +23,5 @@ The page is licensed under Public Domain.
 [c# - SetForegroundWindow doesn&#39;t work with minimized process - Stack Overflow](https://stackoverflow.com/a/27449582)
 
 [c# - How can I programmatically limit my program&#39;s CPU usage to below 70%? - Stack Overflow](https://stackoverflow.com/a/27162528)
+
+[MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
