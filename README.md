@@ -25,3 +25,5 @@ The page is licensed under Public Domain.
 [c# - How can I programmatically limit my program&#39;s CPU usage to below 70%? - Stack Overflow](https://stackoverflow.com/a/27162528)
 
 [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
+
+[How to clear NuGet package cache using command line? - Stack Overflow](https://stackoverflow.com/a/34935038)
