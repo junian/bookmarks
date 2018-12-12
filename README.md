@@ -24,6 +24,8 @@ The page is licensed under Public Domain.
 
 [c# - How can I programmatically limit my program&#39;s CPU usage to below 70%? - Stack Overflow](https://stackoverflow.com/a/27162528)
 
+[How to Install Ubuntu 18.04 LTS (Bionic Beaver) on UEFI and Legacy BIOS System](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-ubuntu-18-04-lts-bionic-beaver-on-uefi-and-legacy-bios-system.html)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
