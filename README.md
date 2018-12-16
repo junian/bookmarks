@@ -26,6 +26,8 @@ The page is licensed under Public Domain.
 
 [How to Install Ubuntu 18.04 LTS (Bionic Beaver) on UEFI and Legacy BIOS System](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-ubuntu-18-04-lts-bionic-beaver-on-uefi-and-legacy-bios-system.html)
 
+[Read only file system on Android - Stack Overflow](https://stackoverflow.com/questions/6066030/read-only-file-system-on-android)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
