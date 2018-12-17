@@ -28,6 +28,8 @@ The page is licensed under Public Domain.
 
 [Read only file system on Android - Stack Overflow](https://stackoverflow.com/questions/6066030/read-only-file-system-on-android)
 
+[The Windows 10 spring update no longer lets you disable web search in Start - workaround - Neowin](https://www.neowin.net/news/the-windows-10-spring-update-no-longer-lets-you-disable-web-search-in-start/)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
