@@ -30,6 +30,8 @@ The page is licensed under Public Domain.
 
 [The Windows 10 spring update no longer lets you disable web search in Start - workaround - Neowin](https://www.neowin.net/news/the-windows-10-spring-update-no-longer-lets-you-disable-web-search-in-start/)
 
+[git gui - How do I remove files saying &quot;old mode 100755 new mode 100644&quot; from unstaged changes in Git? - Stack Overflow](https://stackoverflow.com/a/1257613/2640559)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
