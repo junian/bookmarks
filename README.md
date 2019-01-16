@@ -32,6 +32,8 @@ The page is licensed under Public Domain.
 
 [git gui - How do I remove files saying &quot;old mode 100755 new mode 100644&quot; from unstaged changes in Git? - Stack Overflow](https://stackoverflow.com/a/1257613/2640559)
 
+[machinelearning-samples/samples/csharp/getting-started/DeepLearning_ImageClassification_TensorFlow at master · dotnet/machinelearning-samples · GitHub](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/getting-started/DeepLearning_ImageClassification_TensorFlow)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
