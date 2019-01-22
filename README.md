@@ -34,6 +34,8 @@ The page is licensed under Public Domain.
 
 [machinelearning-samples/samples/csharp/getting-started/DeepLearning_ImageClassification_TensorFlow at master · dotnet/machinelearning-samples · GitHub](https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/getting-started/DeepLearning_ImageClassification_TensorFlow)
 
+[github - Git - Pushing code to two remotes - Stack Overflow](https://stackoverflow.com/a/14290145/2640559)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
