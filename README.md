@@ -36,6 +36,8 @@ The page is licensed under Public Domain.
 
 [github - Git - Pushing code to two remotes - Stack Overflow](https://stackoverflow.com/a/14290145/2640559)
 
+[c# - Faster file move method other than File.Move - Stack Overflow](https://stackoverflow.com/a/18987514)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
