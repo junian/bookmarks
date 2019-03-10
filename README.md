@@ -38,6 +38,8 @@ The page is licensed under Public Domain.
 
 [c# - Faster file move method other than File.Move - Stack Overflow](https://stackoverflow.com/a/18987514)
 
+[Fixing a slow scrolling DataGridView | Bitmatic](http://bitmatic.com/c/fixing-a-slow-scrolling-datagridview)
+
 ## Free macOS storage space
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
