@@ -44,3 +44,7 @@ The page is licensed under Public Domain.
 
 - [MacOS Xcode CoreSimulator folder very big. Ok to delete content? - Stack Overflow](https://stackoverflow.com/a/36305450)
 - [How to clear NuGet package cache using command line? - Stack Overflow](https://stackoverflow.com/a/34935038)
+
+If after macOS update, delete time machine snapshot:
+[How to Verify That Your Mac&#8217;s Time Machine Backups Are Working Properly ](https://www.howtogeek.com/292197/how-to-verify-that-your-macs-time-machine-backups-are-working-properly/)
+
