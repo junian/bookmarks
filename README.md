@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[Removing Built-in Applications from Windows 8 &#8211; The Deployment Guys](https://blogs.technet.microsoft.com/deploymentguys/2012/10/25/removing-built-in-applications-from-windows-8/)
+
 [1gb .dmp file - what is this? | Tom&#039;s Hardware Forum](https://forums.tomshardware.com/threads/1gb-dmp-file-what-is-this.2849126/)
 
 [Disable or move the package cache - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/install/disable-or-move-the-package-cache?view=vs-2017)
