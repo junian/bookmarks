@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[1gb .dmp file - what is this? | Tom&#039;s Hardware Forum](https://forums.tomshardware.com/threads/1gb-dmp-file-what-is-this.2849126/)
+
 [Disable or move the package cache - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/install/disable-or-move-the-package-cache?view=vs-2017)
 
 [select - SQL join: selecting the last records in a one-to-many relationship - Stack Overflow](https://stackoverflow.com/a/2111420)
