@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[Disable or move the package cache - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/install/disable-or-move-the-package-cache?view=vs-2017)
+
 [select - SQL join: selecting the last records in a one-to-many relationship - Stack Overflow](https://stackoverflow.com/a/2111420)
 
 [c# - Default button property in winform app - Stack Overflow](https://stackoverflow.com/a/4280232)
