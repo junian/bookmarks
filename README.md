@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[How to manage the global packages, cache, temp folders in NuGet | Microsoft Docs](https://docs.microsoft.com/en-us/nuget/consume-packages/managing-the-global-packages-and-cache-folders)
+
 [uninstall - How do you forcefully remove apps in Windows 10? - Super User](https://superuser.com/a/942419)
 
 [Removing Built-in Applications from Windows 8 &#8211; The Deployment Guys](https://blogs.technet.microsoft.com/deploymentguys/2012/10/25/removing-built-in-applications-from-windows-8/)
