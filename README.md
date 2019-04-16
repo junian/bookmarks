@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[Code-based Migration in Entity Framework](https://www.entityframeworktutorial.net/code-first/code-based-migration-in-code-first.aspx)
+
 [password - How to generate a random string? - Unix &amp; Linux Stack Exchange](https://unix.stackexchange.com/a/230676)
 
 [c# - Gmail Error :The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required - Stack Overflow](https://stackoverflow.com/a/20906573)
