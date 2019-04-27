@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[HeatDirectory Task](http://wixtoolset.org/documentation/manual/v3/msbuild/task_reference/heatdirectory.html)
+
 [Problem seeding data that contains owned type · Issue #12004 · aspnet/EntityFrameworkCore · GitHub](https://github.com/aspnet/EntityFrameworkCore/issues/12004)
 
 [Code-based Migration in Entity Framework](https://www.entityframeworktutorial.net/code-first/code-based-migration-in-code-first.aspx)
