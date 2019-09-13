@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[Dynamically changing the Serilog level](https://nblumhardt.com/2014/10/dynamically-changing-the-serilog-level/)
+
 [Sometimes PowerShell stops sending output until I press enter. Why? - Server Fault](https://serverfault.com/a/205898)
 
 [HeatDirectory Task](http://wixtoolset.org/documentation/manual/v3/msbuild/task_reference/heatdirectory.html)
