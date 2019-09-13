@@ -4,6 +4,8 @@ If you find the list valuable to you, feel free to reuse.
 
 The page is licensed under Public Domain.
 
+[logging - How can I reconfigure Serilog without restarting the application? - Stack Overflow](https://stackoverflow.com/a/25821762)
+
 [Dynamically changing the Serilog level](https://nblumhardt.com/2014/10/dynamically-changing-the-serilog-level/)
 
 [Sometimes PowerShell stops sending output until I press enter. Why? - Server Fault](https://serverfault.com/a/205898)
